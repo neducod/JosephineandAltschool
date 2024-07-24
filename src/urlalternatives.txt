@@ -1,0 +1,7 @@
+tiny.cc - allows customization with their api
+
+https://pipedream.com/apps/tinyurl
+
+https://short.io/ - check them out first
+
+https://linklyhq.com/support/api
